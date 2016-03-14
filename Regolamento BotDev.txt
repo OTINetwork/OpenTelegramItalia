@@ -1,0 +1,40 @@
+📢 BENVENUTO 📢
+e buona permanenza
+
+🔷🔷 FINALITÀ 🔷🔷
+🔹Creare un luogo di discussione per tutti gli sviluppatori di bot
+🔹Portare avanti discussioni a livello avanzato sui bot, lasciando su OTI la possibilità di trattare i bot in modo marginale
+🔹Aiutare i programmatori alle prime armi
+🔹Condivisione di guide e tutorial per sviluppare i bot
+
+🔶🔶 REGOLE 🔶🔶
+
+🔸 USA IL BUON SENSO, siamo una community, aiuta e sarai aiutato
+🔸 È caldamente consigliato l'utilizzo di un @username, username offensivi saranno giudicati come troll
+🔸 Rimuovi dal tuo nome eventuali caratteri strani che disturbano la visualizzazione
+🔸 Si parla solo in Italiano
+🔸 Non inviare messaggi multipli uno dietro l'altro, racchiudi i pensieri in un solo messaggio 
+🔸 Usa le funzioni RISPONDI e MODIFICA (ed ELIMINA) per non creare confusione nella conversazione
+🔸 Usa gli #hashtag appositi quando poni una DOMANDA o scrivi una RISPOSTA esaustiva per facilitare ricerche future
+🔸 Vietato parlare di cose direttamente collegate a Telegram: per quello utilizzare il gruppo principale
+🔸 Sono consentiti l'inoltro di messaggi da canali e la condivisione di link di canali e gruppi, ma solo se inerenti alle finalità della community e della discussione, o se richiesti. Prima di postare notizie assicurati che non siano già state postate in precedenza da altri utenti, i tentativi di spam saranno puniti
+🔸 NO immagini/foto/screenshot non inerenti alla chat o non richiesti
+🔸 NO off-topic
+🔸 NO offese e bestemmie nei messaggi, nell'immagine del profilo, nel nome utente, nell'username. 
+🔸 Vietati lo spam, l'uso di GIF e sticker e l'aggiunta di bot alla chat
+
+⚪️⚪️ PULIZIA CHAT ⚪️⚪️
+Gli admin puliranno la chat silenziosamente da eventuali OT pesanti, flame e messaggi contro il regolamento, al fine di garantire la miglior qualità possibile per la community, nel rispetto di tutti gli utenti.
+
+🔴🔴 BAN e SICUREZZA 🔴🔴
+Gli utenti che mostreranno atteggiamenti scorretti e ripetutamente contro il regolamento verranno bannati dai gruppi OTI.
+
+🔰🔰 ADMIN 🔰🔰
+Per informazioni, richieste o proposte puoi contattare gli admin del gruppo: ti basta scrivere un messaggio nel gruppo includendo il tag @admin, oppure manda un feedback con @OpenTelegramItaliaBot.
+
+🔸 Per segnalare la presenza di troll e spammer, nonché di utenti del gruppo che mostrano comportamenti scorretti verso di voi in chat privata, contattate gli admin (come indicato sopra).
+🔸 Il nostro bot implementa il tag alert: una notifica vi avviserà in chat privata quando verrete menzionati nei gruppi OTI, per abilitare questa funzione avviate il bot e seguite le istruzioni.
+🔸 Migliore sarà la tua condotta nel gruppo, maggiore sarà la tolleranza nei tuoi confronti in caso di eventuali errori in buona fede. Il ban sarà sempre considerato extrema ratio da parte degli admin.
+
+✅ La community diventa migliore a partire da te
+🖊 gli admin di OTI
